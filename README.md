@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Thiago Paiva  
 
 💻 Estudante de **Tecnologia da Informação**  
-🚀 Em evolução para me tornar **Desenvolvedor de Software**  
-📚 Atualmente aprendendo **HTML, CSS e JavaScript**  
+🚀 Em evolução para me tornar **Engenheiro de Software**  
+📚 Atualmente aprendendo **C#, HTML E CSS**  
 ✨ Apaixonado por **programação, inovação e aprendizado contínuo**  
 
 ---
