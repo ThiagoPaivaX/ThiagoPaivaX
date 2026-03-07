@@ -1,11 +1,10 @@
 # Olá 👋, Eu me chamo Thiago Paiva
 
-🚀 **Engenheiro(a) de Software | Especialista Resolver Problemas e Criar Soluções**
+🚀 **Engenheiro(a) de Software | Especialista em Resolver Problemas e Criar Soluções**
 🇧🇷 Brazil
 
 Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções orientadas a negócios**.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
 
 ---
 
@@ -15,6 +14,7 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/ThiagoPaivaX">
     <img src="https://img.shields.io/badge/GitHub-ThiagoPaivaX-181717?style=for-the-badge&logo=github" />
   </a>
+  
   <a href="https://instagram.com/thiago_dpaiva">
     <img src="https://img.shields.io/badge/Instagram-@thiago_dpaiva-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
