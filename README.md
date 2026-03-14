@@ -57,7 +57,7 @@ Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções 
 
 ## 🚀 Filosofia
 
-> _"Cógigo não se trata apenas de resolver problemas.  
+> _"Código não se trata apenas de resolver problemas.  
 > Trata-se de construir soluções que sejam escaláveis, douradouras e que gerem valor real"_
 
 ---
