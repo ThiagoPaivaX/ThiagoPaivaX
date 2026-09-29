@@ -1,6 +1,6 @@
 # Olá 👋, Eu me chamo Thiago Paiva
 
-🚀 **Engenheiro(a) de Software | Especialista em Resolver Problemas e Criar Soluções**
+🚀 **Futuro Engenheiro(a) de Software | Serei um eterno aluno e futuro Engenheiro**
 🇧🇷 Brazil
 
 Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções orientadas a negócios**.
